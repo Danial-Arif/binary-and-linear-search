@@ -93,6 +93,6 @@ def binary_search(arr, target):
     <p>By analyzing their time complexities, I have gained insight into when to use each algorithm depending on the dataset and the task at hand. These implementations serve as a foundation for more advanced data structures and algorithms.</p>
 
  <h2>LinkedIn Post</h2>
-    <p>I have written a detailed LinkedIn post about this project. You can check it out here: <a href="https://www.linkedin.com/posts/danial-arif-84b7bb180_coding-datastructures-algorithms-activity-7286668335952412672-sGmk?utm_source=share&utm_medium=member_desktop"></a></p>
+    <p>I have written a detailed LinkedIn post about this project. You can check it out here: <a href="https://www.linkedin.com/posts/danial-arif-84b7bb180_coding-datastructures-algorithms-activity-7286668335952412672-sGmk?utm_source=share&utm_medium=member_desktop">Click Here</a></p>
 </body>
 </html>

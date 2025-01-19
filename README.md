@@ -18,11 +18,21 @@
     </ul>
 
   <h2>How to Run the Program</h2>
+      <h3>Running the Linear Search</h3>
     <ol>
-        <li>Copy the code into your preferred IDE or text editor (e.g., VS Code, PyCharm, etc.).</li>
-        <li>Save the file with a <code>.py</code> extension (e.g., <code>search_algorithms.py</code>).</li>
+        <li>Copy the Linear Search code into your preferred IDE or text editor (e.g., VS Code, PyCharm, etc.).</li>
+        <li>Save the file with the name <code>linear_search.py</code>.</li>
         <li>Run the script using Python:
-            <pre>python search_algorithms.py</pre>
+            <pre>python linear_search.py</pre>
+        </li>
+    </ol>
+
+ <h3>Running the Binary Search</h3>
+    <ol>
+        <li>Copy the Binary Search code into your preferred IDE or text editor (e.g., VS Code, PyCharm, etc.).</li>
+        <li>Save the file with the name <code>binary_search.py</code>.</li>
+        <li>Run the script using Python:
+            <pre>python binary_search.py</pre>
         </li>
     </ol>
 

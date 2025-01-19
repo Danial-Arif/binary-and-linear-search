@@ -114,4 +114,4 @@ This project helped me gain a deeper understanding of **Linear Search** and **Bi
 
 ## **LinkedIn Post**
 
-I have written a detailed LinkedIn post about this project. You can check it out here: [Click Here](#)
+I have written a detailed LinkedIn post about this project. You can check it out here: <a href="https://www.linkedin.com/posts/danial-arif-84b7bb180_coding-datastructures-algorithms-activity-7286668335952412672-sGmk?utm_source=share&utm_medium=member_desktop"> View Post</a>

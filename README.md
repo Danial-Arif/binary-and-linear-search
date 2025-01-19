@@ -4,7 +4,7 @@
     <h1>Searching Algorithms: Binary Search and Linear Search</h1>
     <p>In this project, I have implemented two essential searching algorithms: <strong>Linear Search</strong> and <strong>Binary Search</strong>. The goal of this exercise was to gain hands-on experience with searching techniques, improve my understanding of core data structures, and analyze the time complexity of each algorithm.</p>
     
-  <h2>Purpose</h2>
+   <h2>Purpose</h2>
     <p>The Linear Search and Binary Search algorithms serve as fundamental examples of how to search for a specific value in a dataset:</p>
     <ul>
         <li><strong>Linear Search:</strong> A straightforward algorithm that checks each element in an array sequentially.</li>
@@ -16,31 +16,17 @@
         <li>Understanding the performance differences between linear and logarithmic search times.</li>
         <li>Writing clean and readable code for better understanding.</li>
     </ul>
-    <h2>How to Run the Program</h2>
-    <h3>Clone this Repository</h3>
-    <p>To get started, clone this repository to your local machine:</p>
-    <pre>
-git clone &lt;repo-url&gt;
-cd &lt;repo-directory&gt;
-    </pre>
-    <h3>Running the Linear Search</h3>
-    <p>The <code>linear_search()</code> function works by checking each element in the array sequentially to find the target value. Run the code with the following command:</p>
-    <pre>python linear_search.py</pre>
-    <p>Example array and target value:</p>
-    <pre>
-array = [4, 2, 7, 1, 9, 3, 6]
-target = 9
-    </pre>
-    <h3>Running the Binary Search</h3>
-    <p>The <code>binary_search()</code> function assumes the array is sorted and reduces the search space in half with each iteration to locate the target. Run the code with the following command:</p>
-    <pre>python binary_search.py</pre>
-    <p>Example array and target value:</p>
-    <pre>
-array = [1, 3, 5, 7, 9, 11, 13, 15]
-target = 7
-    </pre>
 
-   <h2>Algorithms</h2>
+  <h2>How to Run the Program</h2>
+    <ol>
+        <li>Copy the code into your preferred IDE or text editor (e.g., VS Code, PyCharm, etc.).</li>
+        <li>Save the file with a <code>.py</code> extension (e.g., <code>search_algorithms.py</code>).</li>
+        <li>Run the script using Python:
+            <pre>python search_algorithms.py</pre>
+        </li>
+    </ol>
+
+  <h2>Algorithms</h2>
     <h3>Linear Search</h3>
     <p>The Linear Search algorithm works by checking each element in the array sequentially. If a match is found, it returns the index of that element. Otherwise, it returns -1.</p>
     <p><strong>Code:</strong></p>
@@ -84,7 +70,7 @@ def binary_search(arr, target):
         <li><strong>Not Found:</strong> Returns <code>-1</code> if the target is not found.</li>
     </ul>
 
- <h2>Time Complexity</h2>
+   <h2>Time Complexity</h2>
     <ul>
         <li><strong>Linear Search:</strong>
             <ul>
@@ -102,8 +88,11 @@ def binary_search(arr, target):
         </li>
     </ul>
 
-<h2>Conclusion</h2>
-    <p>This project provided a deeper understanding of Linear Search and Binary Search. While Linear Search is simple, it can be inefficient for large datasets. Binary Search, with its logarithmic time complexity, is far moreefficient for sorted arrays.</p>
+  <h2>Conclusion</h2>
+    <p>This project provided a deeper understanding of Linear Search and Binary Search. While Linear Search is simple, it can be inefficient for large datasets. Binary Search, with its logarithmic time complexity, is far more efficient for sorted arrays.</p>
     <p>By analyzing their time complexities, I have gained insight into when to use each algorithm depending on the dataset and the task at hand. These implementations serve as a foundation for more advanced data structures and algorithms.</p>
+
+ <h2>LinkedIn Post</h2>
+    <p>I have written a detailed LinkedIn post about this project. You can check it out here: <a href="https://www.linkedin.com/posts/danial-arif-84b7bb180_coding-datastructures-algorithms-activity-7286668335952412672-sGmk?utm_source=share&utm_medium=member_desktop"></a></p>
 </body>
 </html>
